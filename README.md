@@ -1,1 +1,1 @@
-# Repository for final project
+# Emotion detection in the text WEB APP
